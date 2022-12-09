@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding-top: 10em;
+    height: 90vh;
+    box-sizing: border-box;
+    align-items: center;
+
+    
+}
+#gradeGenerator{
+    align-items: center;
+    color:blueviolet;
+    border-radius: 10px 10px;
+    box-shadow: 8px 6px;
+    background-color: whitesmoke;
+    padding: 5em;
+    margin: auto;
+    width:40%;
+    justify-content: flex;
+}
+h1{
+    padding-left:20px;
+}
+/* #gradeGenerator{
+    padding-left:60px; */ 
+}
+box{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px,4px;
+    width: 703px;
+    height: 49px;
+    border: 1px solid;
+    border-radius: 10px;
+}
